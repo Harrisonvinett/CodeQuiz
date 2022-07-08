@@ -8,7 +8,7 @@ If the user misses a question then they face a time plenty❗️
 
 . . . Easy as that
 
-Link: 
+Link: https://harrisonvinett.github.io/CodeQuiz/
 
 <img width="1369" alt="Screen Shot 2022-07-07 at 9 20 12 PM" src="https://user-images.githubusercontent.com/87486430/177904233-8a5de820-f611-4ad6-80a1-7debc6e28322.png">
 
