@@ -1,0 +1,84 @@
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    line-height: 1.5;
+    color: #0a0a0e;
+    background-color: #eeeeee;
+    text-align: center;
+    padding: 60px;
+    font-family: sans-serif;
+  }
+
+  .myScore {
+    padding: 10px 50px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight:bold;
+    color: rgb(239, 239, 239);
+    background-color: rgb(109, 199, 145);
+    font-weight: normal;
+    border: none;
+    transition: all 0.2s ease-in-out;
+    border-radius: 15px 15px;
+    cursor: pointer;
+}
+
+.myScore:hover {
+    color: rgb(255, 255, 255);
+    box-shadow: 5px rgba(0, 122, 255,);
+    border-radius: 20px;
+  }
+ 
+  button {
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight:bold;
+    color: rgba(255, 255, 255, 0.8);
+    background: rgb(0, 122, 255);
+    font-weight: normal;
+    border: none;
+    transition: all 0.2s ease-in-out;
+    border-radius: 15px 15px;
+  }
+
+  button:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 5px rgba(0, 122, 255,);
+  }
+
+  .checkbox{
+    display: none;
+  }
+
+  .btn {
+    padding: 10px 50px;
+    margin: 10px;
+    font-weight: bolder;
+    text-decoration: none;
+    font-weight:bold;
+    color: rgba(255, 255, 255, 0.8);
+    background: rgb(200, 72, 55);
+    font-weight: normal;
+    border: none;
+    transition: all 0.2s ease-in-out;
+    border-radius: 15px 15px;
+    
+}
+  
+  .btn:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 5px rgba(0, 122, 255,);
+    border-radius: 18px;
+  }
+
+:checked ~ .btn {
+    display:none;
+}
+
+
+#codeQuiz {
+margin: 10,0;
+}
